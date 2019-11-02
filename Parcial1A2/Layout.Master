@@ -45,7 +45,7 @@
           Consultas
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">C1</a>
+          <a class="dropdown-item" href="/Consultas/cTransacciones.aspx">Transacciones</a>
         </div>
       </li>  
     </ul>
